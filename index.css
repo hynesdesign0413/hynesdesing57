@@ -1,0 +1,56 @@
+.casestudy1{
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 520px;
+    background: #008080;
+    border: 3.5px solid black
+
+}
+h1{
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;    
+ 
+}
+.small {
+    width:33%;
+
+}
+p {
+    font-size: 22px;
+}
+.height {
+    height:80%
+}
+.casestudy2{
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 520px;
+    background: #CC8914;
+    border: 3.5px solid black    
+}
+.casestudy3{
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 520px;
+    background: #801006;
+    border: 3.5px solid black
+}
+.footer{
+    display:flex;
+    justify-content:center;
+    align-content: center;
+    width: 100%;
+    height: 320px;
+    background: #008080;
+    border: 3.5px solid black
+}
+h3{
+    font-size: 45px;
+}
